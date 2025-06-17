@@ -1,3 +1,6 @@
+Compte Rendu **Hosni HAMDI**
+
+
 # Installation
 
 
@@ -44,13 +47,4 @@ Mise en place de Gherkin pour le scénario suivant : # 2pts
  - ajouter un élément (1pt)
  - supprimer cet élément (1pt)
 
-## A rendre
-
-A l'adresse : nicolas.sanou@wijin.tech
-
-Date limite de remise : 17/06/2025 à 17h
-
-Une archive avec :
- - les sources zipées ou l'url de votre projet public (si plateforme gitlab / gihub / ...) ;
- - les captures d'écran de l'interface graphique de votre ordonnanceur de CI/CD (si Jenkins).
 
