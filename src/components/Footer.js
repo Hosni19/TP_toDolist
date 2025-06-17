@@ -3,10 +3,11 @@ import {Link} from 'react-router-dom'
 
 export default props =>
   <footer className="footer">
-    <span className="todo-count">
-      <strong>{props.remaining}</strong> 
-		  {props.remaining === 1 ? ' todo restant' : ' todos restants'}
-    </span>
+    {/* 
+<span className="todo-count">
+  <strong>{remaining}</strong> {remaining === 1 ? 'tâche' : 'tâches'} restantes
+</span>
+*/}
     <ul className="filters">
       <li><Link to="/">Tous</Link></li>
       {' '}
