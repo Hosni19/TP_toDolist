@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "name": "Ajouter Cypress au projet",
+      "isComplete": false,
+      "id": 1
+    },
+    {
+      "name": "Identifier tous les cas à tester",
+      "isComplete": false,
+      "id": 2
+    },
+    {
+      "name": "Implémenter les tests",
+      "isComplete": false,
+      "id": 3
+    },
+    {
+      "name": "Mise en place de Gherkin (pour les courageux)",
+      "isComplete": false,
+      "id": 4
+    },
+    {
+      "name": "Passer le projet en CI/CD",
+      "isComplete": false,
+      "id": 5
+    }
+  ]
+}
