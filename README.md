@@ -2,7 +2,7 @@
 
 ## Nom : Hosni HAMDI
 
-Ce projet est réalisé dans le cadre d’un TP noté sur l’automatisation des tests.  
+Ce projet est réalisé dans le cadre d’un TP sur l’automatisation des tests.  
 Il s’agit d’une application ToDo List testée avec Cypress et Gherkin.
 
 ---
